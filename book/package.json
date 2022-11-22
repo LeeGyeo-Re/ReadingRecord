@@ -11,7 +11,7 @@
     "http-server": "^0.12.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "rollup": "^2.7.6"
   },
   "proxy": "http://localhost:3001",
